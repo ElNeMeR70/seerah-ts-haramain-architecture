@@ -1,0 +1,11 @@
+{
+  "name": "seerah-ts-haramain-architecture",
+  "version": "1.0.0",
+  "description": "Two Holy Mosques (Al-Haramain) Historical Expansion & Capacity Modeler (مؤرخ عمارة وتوسعات المسجد الحرام والمسجد النبوي)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
